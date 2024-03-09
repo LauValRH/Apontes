@@ -1,3 +1,3 @@
 - ED de primer orden
-	- Solución de problemas
+	- [[Solución de problemas]]
 	-
