@@ -1,4 +1,5 @@
 - ED de primer orden
 	- [[Solución de problemas]]
+	- ya no deberia quejarse
 	-
 	-
