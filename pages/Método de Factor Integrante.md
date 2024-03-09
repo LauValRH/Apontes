@@ -1,1 +1,2 @@
-# Ecuaciones de la forma
+# Ecuaciones de la forma $y'=ay+b$
+	-
