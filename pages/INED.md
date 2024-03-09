@@ -1,2 +1,2 @@
-- ED ordinarias de
+- ED de primer orden
 	- Tema 1.1
