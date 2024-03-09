@@ -6,6 +6,11 @@
 	- Sea $\mu(t)$ el factor integrante, buscamos que 
 	  $$\mu(t)y'+\mu(t)p(t)y = \frac{d}{dt}[\mu(t)y]$$
 	  Es decir, $\mu(t)$ tiene que ser de tal manera que 
-	  $$\mu(t)$$
+	  $$[\mu(t)]' = \mu(t)p(t)$$
+	  Lo que es equivalente a 
+	  $$\frac{[\mu(t)]'}{\mu(t)} = p(t)$$
+	  $$\int_{t_{0}}^{t}\frac{[\mu(s)]'}{\mu(s)} ds = \int_{t_0}^{t} p(s)ds$$
+	-
+-
 - # Ecuaciones de la forma $y'=ay+b$
 	- Para las ecuaciones de esta forma
