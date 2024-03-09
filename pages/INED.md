@@ -1,2 +1,2 @@
-- Repasito de Álgebra lineal
+- ED ordinarias de
 	- Tema 1.1
