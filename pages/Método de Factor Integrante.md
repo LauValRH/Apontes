@@ -1,0 +1,1 @@
+# Ecuaciones de la forma

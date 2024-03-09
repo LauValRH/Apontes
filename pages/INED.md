@@ -1,6 +1,6 @@
 - ED de primer orden
 	- [[Solución de problemas]]
-	- [[Factor Integrante]]
+	- [[Método de Factor Integrante]]
 	-
 	-
 	-
