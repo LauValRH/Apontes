@@ -11,5 +11,6 @@
 -
 - # Ecuaciones de la forma $y'=ay+b$
 	- Para las ecuaciones de esta forma, de acuerdo con el método anterior, es fácil ver que $p(t) = a$, de esta manera el factor $\mu(t)$ es
-	  $$\mu(t) = e{at}$$
+	  $$\mu(t) = e^{at}$$
 	  y resolviendo la ecuación para un caso general:
+-
