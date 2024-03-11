@@ -7,10 +7,9 @@
 	  $$\mu(t)y'+\mu(t)p(t)y = \frac{d}{dt}[\mu(t)y]$$
 	  Es decir, $\mu(t)$ tiene que ser de tal manera que 
 	  $$[\mu(t)]' = \mu(t)p(t)$$
-	  Lo que es equivalente a 
-	  $$\frac{[\mu(t)]'}{\mu(t)} = p(t)$$
-	  $$\int_{t_{0}}^{t}\frac{[\mu(s)]'}{\mu(s)} ds = \int_{t_0}^{t} p(s)ds$$
-	-
+	- ## Explicación: ![Explicación factor integrante.pdf](../assets/Demos_1710179442518_0.pdf)
 -
 - # Ecuaciones de la forma $y'=ay+b$
-	- Para las ecuaciones de esta forma
+	- Para las ecuaciones de esta forma, de acuerdo con el método anterior, es fácil ver que $p(t) = a$, de esta manera el factor $\mu(t)$ es
+	  $$\mu(t) = e{at}$$
+	  y resolviendo la ecuación para un caso general:
