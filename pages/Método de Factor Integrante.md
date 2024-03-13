@@ -18,6 +18,8 @@
 	- ## Desarrollo ![Caso y' = ay + g(t) .pdf](../assets/Demos_1710355134137_0.pdf)
 - # Problema de valor inicial
 	- Regresemos a la ecuación obtenida en ((65ef3dee-b5c4-4744-86a0-b69cf49a2c77)), tenemos un valor t_0 y a este mismo asociado un y_0.
-	  Para la forma general de la ecuación, estos dos valores se toman convenientemente para que el c
-- ## Ejemplos :D
+	  Para la forma general de la ecuación, estos dos valores se toman convenientemente para que el cálculo de la forma general sea lo más simplificado posible. Por ejemplo $y(t_0)=0$ con $t_0=0$, sin embargo, en los problemas de valor inicial planteados de la forma
+	  $$y' = p(t)y + g(t) \land y(a) = b$$
+	  Se sabe que la solución es una función específica de la familia de funciones asociadas. Esto es más fácil verlo con ejemplos
+- ## Ejemplos
 	-
