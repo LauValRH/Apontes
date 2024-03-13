@@ -10,14 +10,14 @@
 	  $$[\mu(t)]' = \mu(t)p(t)$$
 	- ## Explicación: ![Explicación factor integrante.pdf](../assets/Demos_1710179442518_0.pdf)
 	- Así, por lo tanto, cuando multiplicamos el factor a ambos lados nos queda:
+	- ## Desarrollo ![Desarrollo completo.pdf](../assets/Demos_1710370484903_0.pdf)
 - # Ecuaciones de la forma $y'=ay+g(t)$
 	- Para las ecuaciones de esta forma, de acuerdo con el método anterior, es fácil ver que $p(t) = a$, de esta manera el factor $\mu(t)$ es
 	  $$\mu(t) = e^{at}$$
 	  y resolviendo la ecuación para un caso general:
 	- ## Desarrollo ![Caso y' = ay + g(t) .pdf](../assets/Demos_1710355134137_0.pdf)
-	-
 - # Problema de valor inicial
-	- Regresemos a la ecuación obtenida en ((65ef3dee-b5c4-4744-86a0-b69cf49a2c77)):
-	  $$$$
+	- Regresemos a la ecuación obtenida en ((65ef3dee-b5c4-4744-86a0-b69cf49a2c77)), tenemos un valor t_0 y a este mismo asociado un y_0.
+	  Para la forma general de la ecuación, estos dos valores se toman convenientemente para que el c
 - ## Ejemplos :D
 	-
