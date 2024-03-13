@@ -13,6 +13,6 @@
 	- Para las ecuaciones de esta forma, de acuerdo con el método anterior, es fácil ver que $p(t) = a$, de esta manera el factor $\mu(t)$ es
 	  $$\mu(t) = e^{at}$$
 	  y resolviendo la ecuación para un caso general:
-	- ## Desarrollo ![Explicacion caso p(t) = a.pdf](../assets/Demos_1710199055606_0.pdf)
+	- ## Desarrollo ![Caso y' = ay + g(t) .pdf](../assets/Demos_1710355134137_0.pdf)
 - ## Ejemplos :D
 	-
