@@ -22,4 +22,6 @@
 	  $$y' = p(t)y + g(t) \land y(a) = b$$
 	  Se sabe que la solución es una función específica de la familia de funciones asociadas. Esto es más fácil verlo con ejemplos
 - ## Ejemplos
-	-
+	- ### Ejemplo 1 ![ejemplo 1.pdf](../assets/Demos_1710556356324_0.pdf)
+		- En este caso, es necesario dejarla en términos de la integral porque $e^{\frac{t^2}{4}}$ no se puede expresar en términos de funciones elementales
+	- ### Ejemplo 2
