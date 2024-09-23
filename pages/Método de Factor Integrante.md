@@ -25,3 +25,4 @@
 	- ### Ejemplo 1 ![ejemplo 1.pdf](../assets/Demos_1710556356324_0.pdf)
 		- En este caso, es necesario dejarla en términos de la integral porque $e^{\frac{t^2}{4}}$ no se puede expresar en términos de funciones elementales
 	- ### Ejemplo 2 /asset
+- Alguna cosa
